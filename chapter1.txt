@@ -1,0 +1,3 @@
+git init - intialize a new git repository
+git status - to check status
+git add filenames - pushes to tracked files, . to push all files in staging area
