@@ -7,3 +7,10 @@ added READM
 
 git switch/checkout
 git branch -a
+git log - to view history, q to leave
+    Space — next page
+    b — previous page
+    ↑ / ↓ — scroll line by line
+    q — quit the view
+
+git log --oneline - more compact versiom
