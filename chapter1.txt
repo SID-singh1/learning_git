@@ -5,6 +5,8 @@ git add filenames - pushes to tracked files, . to push all files in staging area
 git commit - to save snapshot
 added READM
 
+git switch/checkout
+git branch -a
 git log - to view history, q to leave
     Space — next page
     b — previous page
